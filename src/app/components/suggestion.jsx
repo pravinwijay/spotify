@@ -21,7 +21,7 @@ const Suggestion =() => {
             description:"Retrouvez vos morceaux préférés de l'année dernière et d'avant."
         },
         {
-            nom:"A écouter en famille", 
+            nom:"À écouter en famille", 
             artistes: "Damso, Vald, Rim'K et Ninho", 
             image1:"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1G9baM-default.jpg",
             image2:"https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO26xkaI-default.jpg",
