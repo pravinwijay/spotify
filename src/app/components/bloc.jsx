@@ -8,7 +8,8 @@ const Bloc = ({bloc}) => {
                 <img src={bloc.image3} className="w-64 h-64 hover:scale-110 duration-300 rounded-xl"/>
                 <img src={bloc.image4} className="w-64 h-64 hover:scale-110 duration-300 rounded-xl"/>
             </div>
-            <p className="mt-4 font-bold">{bloc.description}</p>
+            <p className="mt-4 font-bold">{bloc.artistes}</p>
+            <p>{bloc.description}</p>
         </div>
     )
 }
